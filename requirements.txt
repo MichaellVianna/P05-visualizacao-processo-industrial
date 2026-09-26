@@ -1,0 +1,6 @@
+# Ambiente do P05 (versões instaladas na máquina, Python 3.14).
+pandas>=3.0
+numpy>=2.5
+matplotlib>=3.11
+seaborn>=0.13
+ipykernel>=7.3
