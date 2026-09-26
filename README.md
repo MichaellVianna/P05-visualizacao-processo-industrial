@@ -3,8 +3,8 @@
 **Nº 5 de 49 na ordem de execução.** ID do projeto: P05.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
-- CD/N1-06 a 08 — Data Visualization com bibliotecas Python (criação; comparação e distribuição; composição e relação)
-- AD/N1-01 — Trabalhando com dados: fundamentos da análise de dados
+- CD/N1-06 a 08 - Data Visualization com bibliotecas Python (criação; comparação e distribuição; composição e relação)
+- AD/N1-01 - Trabalhando com dados: fundamentos da análise de dados
 
 Uma corrida real de uma linha de produção de duas etapas, vista só por gráficos. Quero responder três
 coisas: o processo está no alvo, ele se mantém estável ao longo do tempo, e que variáveis de máquina
