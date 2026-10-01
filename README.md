@@ -1,6 +1,6 @@
 # P05. Visualização de variáveis de processo
 
-**Nº 5 de 49 na ordem de execução.** ID do projeto: P05.
+**Nº 5 de 48 na ordem de execução.** ID do projeto: P05.
 
 **Cursos da Alura a fazer antes deste projeto (todos os que caem aqui na ordem das 4 carreiras):**
 - CD/N1-06 a 08 - Data Visualization com bibliotecas Python (criação; comparação e distribuição; composição e relação)
